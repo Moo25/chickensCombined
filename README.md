@@ -46,7 +46,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Running Backend Development Server
 
-To run the development server, execute following command inside bitimulate-backend directory:
+To run the development server, execute following command inside chickenscombined-backend directory:
 
 ```bash
 $ yarn dev
@@ -54,7 +54,7 @@ $ yarn dev
 
 ### Running Frontend Webpack Development Server
 
-To run the webpack-dev-server for frontend, execute following command inside bitimulate-frontend directory:
+To run the webpack-dev-server for frontend, execute following command inside chickendscombined-frontend directory:
 
 ```bash
 $ yarn start
