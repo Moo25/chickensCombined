@@ -4,6 +4,8 @@
 
 > This service will be available soon :) <br/>
 > 치킨 먹고 싶어서 만드는 치킨포털
+> 매일의 작업과정은 https://trello.com/b/LjWO5H3Y/%EC%B9%98%ED%82%A8%EC%A6%88%EC%BB%B4%EB%B0%94%EC%9D%B8
+> 트렐로로 정리되고 있습니다.
 
 ## Stack
 
